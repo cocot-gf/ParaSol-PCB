@@ -1,0 +1,21 @@
+[Copyright & License]
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to deal in the software
+without restriction, subject to the condition that the copyright notice below
+be included in all copies or substantial portions of the software.
+
+ParaSol - Converts the Solist-AI™ MCU into an SPI peripheral device.
+Copyright (c) 2026 Gadget Factory
+http://park19.wakwak.com/~gadget_factory/
+
+[Disclaimer]
+The software is provided "as is," without warranty of any kind. The author assumes no liability
+for any claims, damages, or other liabilities arising from or in connection with the software or
+the use or other dealings in the software.
+
+If you intend to commercialize or monetize a product based on this software,
+please do so at your own risk. This is a crucial point to observe regarding safety,
+particularly concerning issues such as omitted error handling or unintended bugs.
+While you are welcome to utilize the ideas and know-how presented here,
+please give careful consideration if you are planning to deploy a direct,
+wholesale copy of the code.
