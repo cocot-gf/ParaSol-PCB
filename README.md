@@ -17,7 +17,7 @@ ParaSol PCB のマイコンには出荷時点の最新版ParaSol ファームウ
 * 48MHz PLL発振用の水晶振動子を搭載
 * デュアルポート構成の最新版ParaSolファームウェアを書込み済み
 * SWDピンあり、汎用小型マイコンボードとしても利用可能
-* ワイドレンジの電源電圧2.5～5V
+* ワイドレンジの電源電圧2.5～5.5V
 
 # 3 利用方法
 基板のピン配置などの仕様は[ParaSolPCB_ProductManual.pdf](https://github.com/cocot-gf/ParaSol-PCB/blob/Ver.1.0-RELEASE/ParaSolPCB_1.0_ProductManual.pdf) を読んでください。  
