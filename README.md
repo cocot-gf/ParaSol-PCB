@@ -37,7 +37,7 @@ UIDは半導体メーカーが書き込んでいる情報なので、重複す�
 gadget.factory.mail@gmail.com <または> gadget_factory@bf.wakwak.com
 
 # 6 販売情報
-スイッチサイエンスで委託販売しております。  
+[スイッチサイエンス](https://www.switch-science.com/products/11461)で委託販売しております。  
 1ロット20個で納品しているため比較的早く売り切れる可能性があります。  
 
 2026/10/16 売り切れ、JLCPCBへ20個部品と製造を発注、11/25頃スイッチサイエンスで販売再開予定。  
