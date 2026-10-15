@@ -35,3 +35,6 @@ UIDは半導体メーカーが書き込んでいる情報なので、重複す�
 技術的な問い合わせはメールで受け付けています。
 
 gadget.factory.mail@gmail.com <または> gadget_factory@bf.wakwak.com
+
+# 6 製造状況
+2026/10/16 JLCPCBへ2ロット目20個 製造発注、11/20頃スイッチサイエンスで販売再開予定です。
