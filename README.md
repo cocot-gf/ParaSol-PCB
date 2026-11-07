@@ -32,7 +32,7 @@ Solist-AIの機能を含めたParaSolのソフト的な使い方は、[ParaSol_P
 UIDは半導体メーカーが書き込んでいる情報なので、重複することはありません。
 
 # 5 技術的な問い合わせ
-技術的な問い合わせはメールで受け付けています。
+技術的な問い合わせはGitHubのディスカッションかメールで受け付けています。
 
 gadget.factory.mail@gmail.com <または> gadget_factory@bf.wakwak.com
 
