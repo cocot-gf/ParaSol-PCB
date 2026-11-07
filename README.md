@@ -21,7 +21,8 @@ ParaSol PCB のマイコンには出荷時点の最新版ParaSol ファームウ
 
 # 3 利用方法
 基板のピン配置などの仕様は[ParaSolPCB_ProductManual.pdf](https://github.com/cocot-gf/ParaSol-PCB/blob/Ver.1.0-RELEASE/ParaSolPCB_1.0_ProductManual.pdf) を読んでください。  
-Solist-AIの機能を含めたParaSolのソフト的な使い方は、[ParaSol_ProductManual.pdf](https://github.com/cocot-gf/ParaSol/blob/Ver.1.5-RELEASE/ParaSol_1.5_ProductManual_AMDT4.pdf) を読んでください。  
+Solist-AIの機能を含めたParaSolのソフト的な使い方は、[ParaSol_ProductManual.pdf](https://github.com/cocot-gf/ParaSol/blob/Ver.1.5-RELEASE/ParaSol_1.5_ProductManual_AMDT4.pdf) や
+ParaSolの[How To Use](https://github.com/cocot-gf/ParaSol/tree/Ver.1.5-RELEASE/How%20To%20Use)を読んでください。  
 [ParaSolのbinaryツリー](https://github.com/cocot-gf/ParaSol/tree/213b270182fe4c7482088d16837ffaf44c1fdd3f/binary)には、この基板にインストールされている最新版のコンパイル済みバイナリデータも掲載しています。
   
 # 4 ケース内部に貼ってあるシールについて
